@@ -1,3 +1,5 @@
+package tree;
+
 public class SearchTree {
 
    static Node pre;
